@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">EBursary</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin
+        \n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin
+    </string>
+
+    <string name="short_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+
+    <string name="b1">Nandi Governor Stephen Sang giving out County bursary cheques to students at Kapkoimur in Mosop constituency
+    Another 640 students who qualified for Form One places in national schools after topping in 2018’s Kenya Certificate of Education examination will be next in line and their fees will be paid early January, 2019, he added
+He said fees for the rest of the beneficiaries will be paid from the Sh400 million County bursary kitty to their respective schools by the end of January under the county’s ‘Elimu ni Sasa’ initiative.</string>
+    <string name="b2">It Is Early Christmas For Students As County Issues Bursaries Kwale County Deputy Governor, Fatuma Achani gives a cash reward to one of the bursary beneficiaries, Henry Odhiambo, a student from Mangu High School for being the only one who scored grade A- in terminal exams during the launch of the first round of bursaries at Kinondo, MsambweniKwale County government has started issuing Sh114million bursaries to 3,800 students in national schools.
+Governor Salim Mvurya said beneficiaries under this category qualify for full scholarships and the disbursement will be concluded in all the four Sub-counties namely, Msambweni, Matuga, Lunga Lunga and Kinango before Christmas.
+Mvurya was speaking Wednesday when he officially launched the bursary distribution exercise at Nyumba Mbovu grounds, Kinondo location, Msambweni Sub-county where cheques worth Sh24million were handed over to 585 students from various national schools.
+Another 640 students who qualified for Form One places in national schools after topping in 2018’s Kenya Certificate of Education examination will be next in line and their fees will be paid early January, 2019, he added
+He said fees for the rest of the beneficiaries will be paid from the Sh400 million County bursary kitty to their respective schools by the end of January under the county’s ‘Elimu ni Sasa’ initiative.</string>
+    <string name="b3"> Global Hope Foundation Programme Officer Edwin Kagiri (in blue coat) gives a bursary cheque of Sh50,000 to Kavingo secondary school Principal Paul Nzuki to support 20 students in the school on May 24,2018. The organisation targets to support 10,000 students in a bid to develop human capital to spur the government\'s realization of the \'Big Four\' Agenda Global Hope Foundation hopes to support 10,000 students from poor backgrounds with Sh100 million worth of bursaries to enable them learn without interruption.
+Mr Kagiri spoke at Kavingo Secondary School in Yatta constituency where he issued Sh50,000 cheques towards the payment of fees for 20 needy students.
+The organisation is also supporting local community projects in Tanzania, Uganda and Ethiopia.</string>
+    <string name="b4">Embu Town: The County Government has disbursed bursaries amounting to Sh.163.9 million to needy students in the area, an increase from Sh.70 million that was given in 2015/2016.
+
+Governor Martin Wambora said the money will benefit students in secondary schools, universities, colleges and vocational training centers.
+
+Wambora said if he is reelected, the county will double the figure to target more students to enable more students achieve their career dreams.
+
+“We are committed to educating our children especially those from poor backgrounds. We expect to increase the figure next year so that more students are enrolled in the programme,” he said.
+
+The governor at the same time announced that the county will from next month provide free milk to children in early childhood and lower primary schools.
+
+The packed milk will be given to the more than 17,000 children across the county thrice a week at a cost of Sh.40million. He said the aim of the programme is to improve the health of the children and boost dairy farming in the county.
+
+County Assembly budget committee chair Joseph Mwaniki said Sh.80 million will be allocated to the programme next year.
+
+Tendering for companies to supply the milk has already been done and priority will be given to people buying milk from local farmers.</string>
+    <string name="b5">Nairobi county executive is yet again on the spot over bursaries.
+
+Schools open next week for the second term but beneficiaries of bursaries have not received the funds.
+
+Governor Mike Sonko on April 2 announced disbursement of Sh400 million to needy students. The bursary is to benefit over 4000 needy students across the 85 wards.
+
+On Wednesday, MCA wondered what happened to the money. No school has confirmed with the ward reps receiving the funds from City Hall.
+
+“The legislators were lied to when they were paraded and given empty baskets written their ward\'s name at City Hall. Up to date our residents at the wards have not received any funds,” Minority Chief Whip Peter Imwatok said.
+
+Sonko had announced the money would be transferred electronically to schools to curb corruption.
+
+Imara Daima MCA Kennedy Obuya said parents are visiting their offices frequently inquiring about the bursaries .
+
+</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="take_photo">Take a Photo</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="next">Next</string>
+    <string name="retake">Retake</string>
+    <string name="continue_txt">continue</string>
+
+    <string name="default_img_des">default img des</string>
+
+
+    <!-- Date Util -->
+    <string name="date_util_term_less">less than</string>
+    <string name="date_util_term_a">a</string>
+    <string name="date_util_term_an">an</string>
+
+    <string name="date_util_unit_second">second</string>
+    <string name="date_util_unit_seconds">seconds</string>
+    <string name="date_util_unit_minute">minute</string>
+    <string name="date_util_unit_minutes">minutes</string>
+    <string name="date_util_unit_hour">hour</string>
+    <string name="date_util_unit_hours">hours</string>
+    <string name="date_util_unit_day">day</string>
+    <string name="date_util_unit_days">days</string>
+    <string name="date_util_unit_month">month</string>
+    <string name="date_util_unit_months">months</string>
+    <string name="date_util_unit_year">year</string>
+    <string name="date_util_unit_years">years</string>
+
+    <string name="date_util_prefix_lt">less than a</string>
+    <string name="date_util_prefix_about">about</string>
+    <string name="date_util_prefix_over">over</string>
+    <string name="date_util_prefix_almost">almost</string>
+
+    <string name="date_util_suffix">ago</string>
+
+</resources>

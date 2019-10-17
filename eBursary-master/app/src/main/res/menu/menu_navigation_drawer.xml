@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/grp_1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_myapplication"
+            android:icon="@drawable/ic_description"
+            android:title="My Application" />
+        <item
+            android:id="@+id/nav_bursary"
+            android:icon="@drawable/ic_receipt"
+            android:title="Bursaries" />
+        <item
+            android:id="@+id/nav_applybursary"
+            android:icon="@drawable/ic_assignment"
+            android:title="Apply Bursary" />
+    </group>
+    <group
+        android:id="@+id/grp_2"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_signout"
+            android:icon="@drawable/ic_exit"
+            android:title="Sign out" />
+    </group>
+
+</menu>

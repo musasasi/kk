@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="sample_images">
+        <item>@drawable/b1</item>
+        <item>@drawable/b2</item>
+        <item>@drawable/b3</item>
+        <item>@drawable/b4</item>
+        <item>@drawable/b5</item>
+    </integer-array>
+
+    <string-array name="sample_images_name">
+        <item>Night Street</item>
+        <item>Architect Desk</item>
+        <item>City Building</item>
+        <item>Computer Keyboard</item>
+        <item>Grunge Window</item>
+
+        <item>Park Bench</item>
+        <item>Table Cocktails</item>
+        <item>Side Park</item>
+        <item>Hanging Clothes</item>
+        <item>Coffee Camera</item>
+
+        <item>Morning Flower</item>
+        <item>Foggy Hill</item>
+        <item>The Backpacker</item>
+        <item>River Forest</item>
+        <item>Mist Mountain</item>
+    </string-array>
+
+
+    <string-array name="people_names">
+        <item>Anderson Thomas</item>
+        <item>Adams Green</item>
+        <item>Laura Michelle</item>
+        <item>Betty L</item>
+        <item>Miller Wilson</item>
+
+        <item>Garcia Lewis</item>
+        <item>Roberts Turner</item>
+        <item>Mary Jackson</item>
+        <item>Sarah Scott</item>
+        <item>Kevin John</item>
+
+        <item>Elizabeth</item>
+        <item>Evans Collins</item>
+        <item>Roberts</item>
+        <item>Betty C</item>
+        <item>Susan Lee</item>
+    </string-array>
+
+    <string-array name="strings_short">
+        <item>Proin Eleifend Libero</item>
+        <item>Placerat nec elit</item>
+        <item>Fringilla ornare finibus</item>
+        <item>Convallis nec mollis</item>
+        <item>Vestibulum turpis nec</item>
+        <item>Sed malesuada volutpat</item>
+        <item>Leo ut semper vulputate</item>
+        <item>Maecenas a lorem in</item>
+        <item>Tincidunt est eros</item>
+        <item>Amet est sollicitudin</item>
+    </string-array>
+
+    <string-array name="strings_medium">
+        <item>This educational scholarship fund aims to give back to society and to help students in need to pursue their dreams,
+            so we are offering USD 500 scholarship per semester to any students majoring in business or related field</item>
+        <item>establishment of the county governments set aside a certain amount of money in their budgets to help the needy and yet bright students to access education </item>
+        <item>Governor Martin Wambora said the money will benefit students in secondary schools, universities, colleges and vocational training centers</item>
+        <item>Governor Mike Sonko on April 2 announced disbursement of Sh400 million to needy students. The bursary is to benefit over 4000 needy students across the 85 wards.</item>
+        <item>Governor Salim Mvurya said beneficiaries under this category qualify for full scholarships and the disbursement will be concluded</item>
+        <item>beneficiaries will be paid from the Sh400 million County bursary kitty to their respective schools by the end of January under the county’s ‘Elimu ni Sasa’ initiative.</item>
+
+    </string-array>
+
+    <string-array name="general_date">
+        <item>05 Dec 2015</item>
+        <item>22 Apr 2013</item>
+        <item>14 Sep 2015</item>
+        <item>11 Feb 2015</item>
+        <item>29 Aug 2014</item>
+        <item>10 Nov 2015</item>
+        <item>23 Jun 2015</item>
+        <item>20 Jul 2015</item>
+        <item>09 Mar 2015</item>
+        <item>01 Jan 2016</item>
+    </string-array>
+
+    <string-array name="full_date">
+        <item>Sun, 05 Dec 18, 11:30 AM</item>
+        <item>Mon, 22 Apr 19, 06:12 PM</item>
+        <item>Wed, 14 Sep 19, 09:21 PM</item>
+        <item>Fri, 11 Feb 19, 11:42 PM</item>
+        <item>Thu, 29 Aug 19, 02:30 AM</item>
+        <item>Sat, 10 Nov 18, 07:05 PM</item>
+        <item>Tue, 23 Jun 19, 09:24 AM</item>
+        <item>Wed, 20 Jul 19, 08:35 AM</item>
+        <item>Sun, 09 Mar 19, 12:49 PM</item>
+        <item>Mon, 01 Jan 19, 10:50 PM</item>
+    </string-array>
+
+    <string-array name="timezone">
+        <item>Pacific Standard Time</item>
+        <item>ASEAN Common Time</item>
+        <item>Atlantic Standard Time</item>
+        <item>China Standard Time</item>
+        <item>Eastern Standard Time </item>
+        <item>Greenwich Mean Time</item>
+        <item>Iran Standard Time</item>
+        <item>Middle European Time</item>
+        <item>Malaysia Time</item>
+        <item>Western European Time</item>
+    </string-array>
+
+    <string-array name="states">
+        <item>State</item>
+        <item>AL</item>
+        <item>AK</item>
+        <item>AR</item>
+        <item>CA</item>
+        <item>FL</item>
+        <item>GA</item>
+        <item>IL</item>
+        <item>IN</item>
+        <item>MA</item>
+        <item>MI</item>
+        <item>NE</item>
+        <item>NE</item>
+        <item>NY</item>
+        <item>OH</item>
+        <item>TX</item>
+        <item>VA</item>
+        <item>WA</item>
+    </string-array>
+
+    <string-array name="month">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <string-array name="social_names">
+        <item>Android</item>
+        <item>Apple</item>
+        <item>Behance</item>
+        <item>Blogger</item>
+        <item>Deviantart</item>
+
+        <item>Dribbble</item>
+        <item>Envato</item>
+        <item>Evernote</item>
+        <item>Facebook</item>
+        <item>Flickr</item>
+
+        <item>Instagram</item>
+        <item>Linkedin</item>
+        <item>Pinterest</item>
+        <item>Skype</item>
+        <item>Soundcould</item>
+
+        <item>Tumblr</item>
+        <item>Twitter</item>
+        <item>Vimeo</item>
+        <item>Youtube</item>
+    </string-array>
+
+    <string-array name="shop_category_title">
+        <item>Gadgets and Computers</item>
+        <item>Fashion</item>
+        <item>Beauty and Health</item>
+        <item>Babies and Kids</item>
+        <item>Home and Garden</item>
+
+        <item>Sports and Hobby</item>
+        <item>Ticket and Voucher</item>
+        <item>Service and Food</item>
+    </string-array>
+
+    <string-array name="shop_category_brief">
+        <item>100k Items</item>
+        <item>655k Items</item>
+        <item>221k Items</item>
+        <item>85k Items</item>
+        <item>725k Items</item>
+
+        <item>932k Items</item>
+        <item>475k Items</item>
+        <item>362k Items</item>
+    </string-array>
+
+    <string-array name="shop_product_title">
+        <item>Fashion B07 Keara 933</item>
+        <item>Coup Hoodie Jacket</item>
+        <item>Gala Suede Jacket Flower</item>
+        <item>Qonnoq Checked Blouse</item>
+        <item>Java Seven Belladji 674</item>
+
+        <item>Kanvas Sneaker Shoes</item>
+        <item>Clarks Idamarie Faye Lea</item>
+        <item>Piero Rush Women</item>
+    </string-array>
+
+    <string-array name="shop_product_price">
+        <item>$ 48.90</item>
+        <item>$ 89.00</item>
+        <item>$ 66.80</item>
+        <item>$ 34.50</item>
+        <item>$ 44.90</item>
+
+        <item>$ 59.00</item>
+        <item>$ 78.20</item>
+        <item>$ 96.00</item>
+    </string-array>
+
+
+    <string-array name="news_category">
+        <item>CDF Fund Bursary</item>
+        <item>Women Rep\'s Bursary</item>
+        <item>County Bursary</item>
+        <item>National Gov Bursary</item>
+        <item>Campaign Bursary</item>
+        <item>Grant Bursaries</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "72080936283",
+    "firebase_url": "https://e-bursary.firebaseio.com",
+    "project_id": "e-bursary",
+    "storage_bucket": "e-bursary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72080936283:android:aeb4ceece7a55fc9fc5e7e",
+        "android_client_info": {
+          "package_name": "com.job.ebursary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72080936283-la4kn1o4s6tom4tsflld2hjsbr6ptsis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.job.ebursary",
+            "certificate_hash": "8e74f71c285c8de3ef2295427b0ca50ddba0e137"
+          }
+        },
+        {
+          "client_id": "72080936283-24kncdmlu1ja8f93leb3erbc8k6jqmab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeqfCkM9N7q9Q2pEILrBkomNRIlukabQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72080936283-24kncdmlu1ja8f93leb3erbc8k6jqmab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
